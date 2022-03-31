@@ -1,6 +1,8 @@
 # material-themes-v2
 custom themes for mabinogi
 
+If you make your own colour sets and wanna add it to the main project feel free to do a merge request!
+
 if you use .it just drop the .it file into the package folder in mabi
 if you use the data folder just drop that into the root folder in mabi (where client.exe is) and make sure to turn on "use data folder" in your patcher of choice
 
